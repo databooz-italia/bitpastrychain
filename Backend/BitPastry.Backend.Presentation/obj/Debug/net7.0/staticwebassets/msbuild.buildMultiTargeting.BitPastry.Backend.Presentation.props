@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BitPastry.Backend.Presentation.props" />
+</Project>

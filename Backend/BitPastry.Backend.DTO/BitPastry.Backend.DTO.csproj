@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="HTTP Messages\" />
+    <None Remove="HTTP Messages\Request\" />
+    <None Remove="HTTP Messages\Response\" />
+    <None Remove="Entities\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Configurations\" />
+    <None Remove="Utils\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="Utils\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+</Project>

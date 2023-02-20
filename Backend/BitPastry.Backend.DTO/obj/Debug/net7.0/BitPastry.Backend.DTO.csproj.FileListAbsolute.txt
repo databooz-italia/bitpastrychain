@@ -1,0 +1,39 @@
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/bin/Debug/net7.0/BitPastry.Backend.DTO.deps.json
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/bin/Debug/net7.0/BitPastry.Backend.DTO.dll
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/bin/Debug/net7.0/BitPastry.Backend.DTO.pdb
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/BitPastry.Backend.DTO.csproj.AssemblyReference.cache
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/BitPastry.Backend.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/BitPastry.Backend.DTO.AssemblyInfoInputs.cache
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/BitPastry.Backend.DTO.AssemblyInfo.cs
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/BitPastry.Backend.DTO.csproj.CoreCompileInputs.cache
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/BitPastry.Backend.DTO.dll
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/refint/BitPastry.Backend.DTO.dll
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/BitPastry.Backend.DTO.pdb
+/Users/luis/Desktop/BitPastry/BitPastry.Backend/BitPastry.Backend.DTO/obj/Debug/net7.0/ref/BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry 2\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry 2\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\refint\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry 2\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\refint\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\bin\Debug\net7.0\BitPastry.Backend.DTO.deps.json
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\bin\Debug\net7.0\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\bin\Debug\net7.0\BitPastry.Backend.DTO.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.csproj.AssemblyReference.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.AssemblyInfoInputs.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.AssemblyInfo.cs
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.csproj.CoreCompileInputs.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\ref\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\bin\Debug\net7.0\BitPastry.Backend.DTO.deps.json
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\bin\Debug\net7.0\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\bin\Debug\net7.0\BitPastry.Backend.DTO.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.csproj.AssemblyReference.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.AssemblyInfoInputs.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.AssemblyInfo.cs
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.csproj.CoreCompileInputs.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\refint\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\BitPastry.Backend.DTO.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.DTO\obj\Debug\net7.0\ref\BitPastry.Backend.DTO.dll

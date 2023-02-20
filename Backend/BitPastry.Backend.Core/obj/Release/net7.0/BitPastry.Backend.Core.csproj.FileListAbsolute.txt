@@ -1,0 +1,17 @@
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\bin\Release\net7.0\BitPastry.Backend.Core.deps.json
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\bin\Release\net7.0\BitPastry.Backend.Core.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\bin\Release\net7.0\BitPastry.Backend.Core.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\bin\Release\net7.0\BitPastry.Backend.Data.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\bin\Release\net7.0\BitPastry.Backend.DTO.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\bin\Release\net7.0\BitPastry.Backend.Data.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\bin\Release\net7.0\BitPastry.Backend.DTO.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\BitPastry.Backend.Core.csproj.AssemblyReference.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\BitPastry.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\BitPastry.Backend.Core.AssemblyInfoInputs.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\BitPastry.Backend.Core.AssemblyInfo.cs
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\BitPastry.Backend.Core.csproj.CoreCompileInputs.cache
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\BitPastry.Backend.Core.csproj.CopyComplete
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\BitPastry.Backend.Core.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\refint\BitPastry.Backend.Core.dll
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\BitPastry.Backend.Core.pdb
+C:\Users\LuigiDiMatteo\Desktop\BitPastry.Backend\BitPastry.Backend.Core\obj\Release\net7.0\ref\BitPastry.Backend.Core.dll

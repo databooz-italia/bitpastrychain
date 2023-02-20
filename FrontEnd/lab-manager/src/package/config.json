@@ -1,0 +1,6 @@
+{
+	"BASE_URL": "https://localhost:7114",
+	"KEYS": {
+		"USER": "user"
+	}
+}
